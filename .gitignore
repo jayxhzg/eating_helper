@@ -1,0 +1,9 @@
+.env
+.env.sample
+fsm
+ngrok.exe
+Pipfile
+Pipfile.lock
+Procfile
+test.py
+/__pycache__

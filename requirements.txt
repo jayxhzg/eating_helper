@@ -1,0 +1,16 @@
+certifi
+chardet
+click
+flask
+future
+idna
+itsdangerous
+jinja2
+line-bot-sdk
+markupsafe
+python-dotenv
+requests
+six
+transitions
+urllib3
+werkzeug
