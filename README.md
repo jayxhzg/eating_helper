@@ -15,7 +15,7 @@
 需在.env中填入`LINE_CHANNEL_SECRET`、`LINE_CHANNEL_ACCESS_TOKEN`、`GOOGLE_API_KEY`、`PORT`  
 並且使用ngrok的指令獲得網址並開啟伺服器:  
 ```
-$ .\ngrok http [PORT]  
+$ .\ngrok http [PORT]
 $ python app.py
 ```
 ## 特色
