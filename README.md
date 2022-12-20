@@ -11,6 +11,11 @@
 ## 額外套件
 * Google Maps API  
 用來搜尋並取得google maps上的資料(免費試用有額度限制，用完就沒了QQ)
+## 程式說明
+需在.env中填入`LINE_CHANNEL_SECRET`、`LINE_CHANNEL_ACCESS_TOKEN`、`GOOGLE_API_KEY`、`PORT`
+並且使用ngrok的指令獲得網址並開啟伺服器:
+`$ .\ngrok http [PORT]`
+`$ python app.py`
 ## 特色
 * 會過濾掉目前尚未營業的店家
 * 只搜尋使用者選擇地點的周圍店家
